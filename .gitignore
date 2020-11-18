@@ -1,0 +1,12 @@
+/.metadata
+.DS_Store
+.eslintcache
+
+/node_modules
+npm-debug.log
+npm-debug.log.*
+package-lock.json
+
+# WebStorm user-specific
+/.idea
+/dist

@@ -1,0 +1,26 @@
+{
+  "name": "npmtest1",
+  "version": "1.0.0",
+  "description": "npm 发布参照地址 https://www.jianshu.com/p/8fa2c50720e4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liujingjie/npmTest.git"
+  },
+  "keywords": [
+    "npmtest"
+  ],
+  "author": "liujingjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liujingjie/npmTest/issues"
+  },
+  "homepage": "https://github.com/liujingjie/npmTest#readme",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
